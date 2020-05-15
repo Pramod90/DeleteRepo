@@ -8,7 +8,7 @@ const port = process.env.PORT;
 
 app.get('/',(req,res)=>{
     res.send({
-        error : 'No url found for requested api',
+        error : 'No url found for requested api made changes',
     });
 });
 
